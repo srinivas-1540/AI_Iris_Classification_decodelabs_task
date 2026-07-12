@@ -1,5 +1,7 @@
 # 🌸 Iris Flower Classification using Machine Learning
+## 🌐 Live Demo
 
+https://your-app-name.streamlit.app
 ## 📌 Project Overview
 
 This project is a Machine Learning web application that predicts the species of an Iris flower using the K-Nearest Neighbors (KNN) algorithm.
@@ -186,7 +188,7 @@ streamlit run app.py
 Machine Learning Intern – DecodeLabs
 
 GitHub:
-(Add your GitHub link here)
+https://github.com/srinivas-1540/AI_Iris_Classification
 
 LinkedIn:
-(Add your LinkedIn profile here)
+🔗 LinkedIn: https://in.linkedin.com/in/vardholu-srinivas-3164953b2
